@@ -1,4 +1,5 @@
 # Docker-Murmur
+[![Docker Repository on Quay](https://quay.io/repository/notnarb/murmur/status "Docker Repository on Quay")](https://quay.io/repository/notnarb/murmur) [![ImageLayers Size](https://img.shields.io/imagelayers/image-size/notnarb/docker-murmur/latest.svg)]()
 
 ## Description
 
