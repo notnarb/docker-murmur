@@ -19,7 +19,6 @@ security disaster waiting to happen.
 * Alpine base
 * Latest version of Murmur in Alpine's repos (likely behind the latest released verison of Murmur)
 * Changes user
-* (should be) Rkt compatible
 
 ## Configuration
 
