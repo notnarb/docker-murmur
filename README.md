@@ -39,6 +39,10 @@ notnarb@redacted:~/w/murmur-docker$ diff murmur.ini murmur.ini.default
 < bonjour=False
 ```
 
+# Changelog
+
+* 2016-03-02 - Trigger rebuild to get latest version of OpenSSL from Alpine repos (CVE-2016-0800 / DROWN)
+
 # Other Docker + Murmur builds
 
 Note: if you're looking at this repo, you probably want one of these instead!
