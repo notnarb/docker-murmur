@@ -4,7 +4,7 @@
 ## Description
 
 Yet another Docker build for the popular Mumble server, Murmur.  This build
-follows the currently released version in Alpine's repos (currently 1.2.10).
+follows the currently released version in Alpine's repos (currently 1.2.17).
 
 ## Why another?
 
@@ -41,6 +41,7 @@ notnarb@redacted:~/w/murmur-docker$ diff murmur.ini murmur.ini.default
 
 # Changelog
 
+* 2017-03-22 - Update apline from 3.3 to 3.5 bumping murmur to 1.2.17
 * 2016-03-02 - Trigger rebuild to get latest version of OpenSSL from Alpine repos (CVE-2016-0800 / DROWN)
 
 # Other Docker + Murmur builds

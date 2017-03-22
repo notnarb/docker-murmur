@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM alpine:3.5
 RUN apk add --update murmur && rm /var/cache/apk/*
 COPY murmur.ini /etc/murmur.ini
 RUN chmod 666 /etc/murmur.ini
