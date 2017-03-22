@@ -56,16 +56,6 @@ Link: https://github.com/mattikus/docker-murmur
 * Busybox base
 * Current version of murmur (statically linked build)
 
-## 7adietri/docker-murmur
-
-Link: https://github.com/7adietri/docker-murmur
-
-* Busybox base
-* Current version of murmur (statically linked build)
-* Accepts --build-args for replacing version at build time.
-* Checksums the download!
-* Changes user
-
 ## bddenhartog/docker-murmur
 
 Link: https://github.com/bddenhartog/docker-murmur
@@ -82,3 +72,13 @@ Link: https://github.com/wmark/docker-murmur
 * Latest Murmur (Uses the github API to get the latest linux release at build time!)
 * Changes user
 * Rkt compatibility
+
+## 7adietri/docker-murmur (deleted or moved)
+
+Link: https://github.com/7adietri/docker-murmur
+
+* Busybox base
+* Current version of murmur (statically linked build)
+* Accepts --build-args for replacing version at build time.
+* Checksums the download!
+* Changes user
